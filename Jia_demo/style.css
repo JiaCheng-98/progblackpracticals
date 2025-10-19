@@ -1,0 +1,65 @@
+/* ✅ 全局字体设置 */
+body {
+  font-family: 'Poppins', Arial, sans-serif;
+  margin: 40px;
+  background-color: #fafafa;
+  color: #333;
+}
+
+/* ✅ 标题样式 */
+header {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+/* ✅ 列表样式 */
+ul {
+  list-style-type: square;
+  color: #2c3e50;
+  background-color: #ecf0f1;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+/* ✅ 表格样式 */
+table {
+  width: 60%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid #bbb;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+/* ✅ 链接样式 */
+a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ✅ 图片样式 */
+img {
+  border-radius: 10px;
+  margin-top: 10px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+}
